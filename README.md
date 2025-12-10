@@ -1,5 +1,6 @@
-Updated Monome Grid Studies to work with modern Python and updated Monome libraries. 
-Documentation at: https://monome.org/docs/grid/grid-computer/
+Updated Monome Grid Studies to work with modern Python and updated Monome libraries.  
+Documentation at: https://monome.org/docs/grid/grid-computer/  
+Original code at: https://github.com/monome/grid-studies-python
 
 To run:
 
