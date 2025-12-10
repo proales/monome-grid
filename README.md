@@ -1,3 +1,6 @@
+Updated Monome Grid Studies to work with modern Python and updated Monome libraries. 
+Documentation at: https://monome.org/docs/grid/grid-computer/
+
 To run:
 
 brew install serialosc to install serialosc  
